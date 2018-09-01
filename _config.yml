@@ -1,10 +1,10 @@
 # Site settings
-title: 软文库-免费文种公共域图书馆
+title: 淘宝考试网-免费考试资料公共域图书馆
 SEOTitle: 努努书坊、免费文种公共域图书馆、自由撰稿人、笔会、代写图文段子、代笔写作文案、策划
 header-img: img/home-bg.jpg
 email: yeshangying1985@gmail.com
 description: "关于前端与设计、黑客与画家 | mage，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @mage 的个人博客，与你一起发现更大的世界。"
-keyword: "努努书坊, 免费文种公共域图书馆, 自由撰稿人博客, 俞小明笔会, C++,Erlang,Python,移动互联网,手机游戏,app, 设计"
+keyword: "考试资料, 高考复习资料、论文资料、知网查询、论文写作、代写、自由撰稿人博客, 俞小明笔会, C++,Erlang,Python,软文写作,软文发布,公众号代写, 自媒体代写"
 url: "https://ruanwenku.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
